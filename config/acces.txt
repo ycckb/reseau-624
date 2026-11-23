@@ -1,0 +1,2 @@
+wifi salle624: MotDePasse-Exemple.
+
