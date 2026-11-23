@@ -1,0 +1,5 @@
+poste :jbs-Latitude-3540
+interface : wlp0s20f3
+ip/masque : 172.20.10.13/28
+passerelle : 172.20.10.1
+ping passerelle : OK (2 packets transmitted, 2 received, 0% packet loss)
